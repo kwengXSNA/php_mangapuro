@@ -1,6 +1,6 @@
 <?php
 
-    $myemail = "tinamcdel05@gmail.com";
+    $myemail = "wantutre@gmail.com";
     $mypass = "0987654321";
 
     if(isset($_POST['login'])) {
